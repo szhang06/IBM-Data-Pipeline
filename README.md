@@ -1,3 +1,3 @@
 # IBM-Data-Pipeline
-### ETL with Airflow, Kafka
-### Basic Spark, SparkSQL, Dataframe
+- ETL with Airflow, Kafka
+- Basic Spark, SparkSQL, Dataframe
