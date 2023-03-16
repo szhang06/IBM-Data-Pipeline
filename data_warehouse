@@ -15,5 +15,3 @@ psql  -h localhost -U postgres -p 5432 practice < FactBilling.sql
 
 4. _Verify that you have correctly loaded the data into the practice database.
 psql  -h localhost -U postgres -p 5432 practice < verify.sql
-
-5. 
